@@ -100,10 +100,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:devinlifeidea@gmail.com
+      url: mailto:devpoem83@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://devinlife.com"
+      url: "https://devpoem83.github.io/blog"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/devinlife"
+      url: "https://github.com/devpoem83"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/devinlife"
+      url: "https://github.com/devpoem83"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
