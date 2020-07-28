@@ -1,7 +1,8 @@
 ---
 title: "개발 생산성을 올려주는 VSCode 플러그인"
 date: 2020-07-23 15:44:00 -0400
-categories: devpome83 update.
+categories: 개발
+tags: 개발 VSCode 플러그인
 ---
 
 ## Material Theme

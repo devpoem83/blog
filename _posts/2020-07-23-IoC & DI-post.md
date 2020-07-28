@@ -1,7 +1,8 @@
 ---
 title: "IOC 란?"
 date: 2020-07-23 15:44:00 -0400
-categories: devpome83 update.
+categories: 개발
+tags: 개발 자바 Di IoC
 ---
 
 프로그램의 제어 흐름구조를 바꾸는 것이다.
@@ -20,12 +21,12 @@ categories: devpome83 update.
     각 클래스 사이에 필요로 하는 의존 관계를 컨테이너가 자동으로 생성하여 연결시켜 줌.
     => 빈 설정(Bean definition) 정보를 기반으로 자동으로 연결.
 
--   Constructor Injection
-    생성자를 이용하여 클래스 사이의 의존관계를 연결
--   Setter Injection
-    setter 메소드를 이용하여 클래스 사이의 의존관계를 연결
--   Method Injection
-    Singleton 인스턴스와 Non Singleton 인스턴스의 의존관계를 연결
+- Constructor Injection
+  생성자를 이용하여 클래스 사이의 의존관계를 연결
+- Setter Injection
+  setter 메소드를 이용하여 클래스 사이의 의존관계를 연결
+- Method Injection
+  Singleton 인스턴스와 Non Singleton 인스턴스의 의존관계를 연결
 
 # 용어 정리
 
